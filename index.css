@@ -249,7 +249,7 @@ button span{
     margin-left: 45px;
 }
 .card4{
-    background-image:('pic4.jpg');
+    background-image:url('pic4.jpg');
     margin-left: 15px;
 }
 .card:hover{
